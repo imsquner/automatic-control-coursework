@@ -11,3 +11,8 @@
 在仓库根目录用 Windows PowerShell 运行 `.\scripts\verify-matlab.ps1`。独立算例的完整命令和排查说明也保留在文档中。
 
 环境验算曾在 Windows 上用 MATLAB R2022a 实跑通过。运行需要 MATLAB、Control System Toolbox 和 Simulink。实际课程的任务书、分析计算和仿真结果在提交版报告中由撰写人填写。
+
+## 课程原表与个人报告
+
+- [本人报告公开副本](docs/personal-report.docx)保留封面、身份信息和报告正文，任务书页留有装订位置。
+- [课程格式资料包](docs/course-format-materials.zip)收录课程封面、统一书写格式、成绩评定表和书面要求四个源文件。
