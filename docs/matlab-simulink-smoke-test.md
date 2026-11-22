@@ -11,7 +11,7 @@
 
 ## 2. 一次运行
 
-在 Windows PowerShell 中整段执行。脚本进入系统临时目录运行，并在退出后恢复原目录。无需另外创建项目脚本或保存模型。
+可从仓库根目录直接执行 [scripts/verify-matlab.ps1](../scripts/verify-matlab.ps1)，也可在 Windows PowerShell 中执行下方完整命令。脚本进入系统临时目录运行，并在退出后恢复原目录。无需另外创建项目脚本或保存模型。
 
 ```powershell
 $matlabCommand = Get-Command matlab -ErrorAction Stop
